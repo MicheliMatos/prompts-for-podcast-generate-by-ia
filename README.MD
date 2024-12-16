@@ -20,3 +20,5 @@ Projeto do bootcamp CAIXA e DIO - Coding The Future, com o objetivo de gerar um 
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - Aula DIO Criando um Podcast com IA Generativa
 
+## Link do meu Notion
+- [Notion](https://notion.so/PAS-Podcast-AI-Studio-MicheliMatos-15ee5a2bad378076a21ad69558ad889c)
